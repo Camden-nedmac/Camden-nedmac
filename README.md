@@ -5,6 +5,6 @@
 -->
 
 - 🔭 I’m currently working on my OSSD
-- 🌱 I’m currently learning Java and Luau
+- 🌱 I’m currently learning Java, Luau and C#
 - 📫 How to reach me: technologyhead@icloud.com
 - 😄 Pronouns: He/Him
